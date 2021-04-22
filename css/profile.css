@@ -1,0 +1,17 @@
+.card-img {
+  height: 200px;
+  width: 200px;
+  object-fit: contain;
+}
+
+.menu-bk {
+  background-color: #ffc107;
+  border-radius: 15px;
+}
+
+.menu-bk .list-group-item {
+  background-color: wheat;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 2px;
+}

@@ -1,0 +1,37 @@
+.container1 {
+  background-color: #e9873c;
+}
+
+.container2 {
+  background-color: #dc3545;
+}
+
+.label {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  color: white;
+}
+
+.big-text {
+  font-family: "Merriweather", serif;
+  font-size: 30px;
+  color: white;
+}
+
+.footer {
+  font-size: 16px;
+  font-style: italic;
+  color: white;
+  font-family: "Merriweather", serif;
+}
+
+.carousel {
+  width: 300px;
+  height: 500px;
+}
+
+.card {
+  margin-top: -150px;
+  width: 500;
+  height: 300px;
+}

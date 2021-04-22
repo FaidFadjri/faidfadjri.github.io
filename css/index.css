@@ -1,0 +1,123 @@
+.navbar-brand {
+	font-family: 'Orelega One', cursive;
+	font-size: 25px;
+}
+
+.nav-link {
+	font-family: 'Bebas Neue', cursive;
+	font-size: 22px
+}
+
+.nav-link:hover {
+	background-color: #DC3545;
+	border-radius: 10px;
+}
+
+.active {
+	color: #DC3545
+}
+
+.jumbotron {
+	background-color: #E9873C; 
+}
+
+.img-home {
+	height: 600px;
+	width: 500px;
+	object-fit: contain;
+}
+
+.text-home {
+	font-family: 'Orelega One', cursive;
+	font-size: 50px;
+	color: #FFFF;
+}
+
+.text-sub-home {
+	font-family: 'Orelega One', cursive;
+	font-size: 32px;
+	margin-top: -36px;
+	color: #FFFF;
+}
+
+/*PROFILE*/
+.img-profile {
+	height: 400px;
+	width: 400px;
+	object-fit: contain;
+}
+
+.card-profile {
+	background-color: #F2F2F2;
+	border-radius: 20px;
+	margin-top: 40px;
+	font-family: 'Roboto', sans-serif;
+	background-color: #E9873C;
+	color: #FFFF;
+}
+
+.img-menu {
+	height: 200px;
+	width: 200px;
+	object-fit: contain;
+}
+
+.menu-bk {
+	background-color: #E9873C;
+	border-radius: 15px;
+}
+
+.menu-bk .list-group-item {
+	background-color: wheat;
+	margin-left: 10px;
+	margin-right: 10px;
+	border-radius: 2px;
+}
+
+/*PORTOFOLIO*/
+
+.title-portofolio {
+	font-family: 'Orelega One', cursive;
+}
+
+.label-portofolio {
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+}
+
+.carousel-sertifikat {
+	height: 300px;
+	width: 500px;
+	object-fit: contain;
+}
+
+.carousel-apps {
+	height: 300px;
+	width: 200px;
+}
+
+/*CONTACT*/
+.title-contact {
+	font-family: 'Orelega One', cursive;
+	color: #FFFF;
+}
+
+.background-contact {
+	background-color: #E9873C;
+}
+.container2 {
+	background-color: #DC3545;
+}
+
+.big-text {
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	color: #FFFF;
+}
+
+.footer {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	font-style: italic;
+	color: #FFFF;
+}

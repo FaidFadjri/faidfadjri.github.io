@@ -1,0 +1,162 @@
+.nav-item {
+  font-family: "Roboto", sans-serif;
+  font-size: large;
+  font-style: black;
+  font-variant: normal;
+}
+
+.navbar-brand {
+  font-family: "Roboto", sans-serif;
+}
+
+/* .nav-link:hover {
+  background-color: #dc3545;
+  border-radius: 10px;
+  color: white;
+  padding: 10px;
+  font-style: bold;
+} */
+
+.text {
+  font-size: 50px;
+  color: white;
+  font-family: "Karantina", cursive;
+}
+
+.text2 {
+  font-size: 50px;
+  color: white;
+  font-family: "Karantina", cursive;
+  margin-top: -40px;
+}
+
+.text-btn {
+  font-size: 20px;
+  color: white;
+  border-radius: 10px;
+  margin-top: -40px;
+  font-family: "Roboto", sans-serif;
+}
+
+.blockmenu {
+  background-color: #e9873c;
+  height: 200px;
+  margin-top: 30px;
+  margin-bottom: 200px;
+  border-radius: 20px;
+}
+.menu:hover {
+  background-color: #ffcea9;
+  border-radius: 30px;
+}
+
+.menu {
+  height: 210px;
+  width: 250px;
+  background-color: #ffc107;
+  padding: 40px;
+  border-radius: 20px;
+  object-fit: contain;
+  margin-top: 20px;
+  box-shadow: 10px;
+}
+
+.jumbotron {
+  background-color: #e9873c;
+  size: cover;
+}
+
+.navbar {
+  color: white;
+}
+
+.thumbnail {
+  border-radius: 10px;
+  background-color: #f2f2f2;
+  height: 335px;
+  object-fit: contain;
+}
+
+.form-bio {
+  border-radius: 10px;
+}
+.form-bio .text-bio {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+}
+
+.form-bio .card-header {
+  background-color: #ffc107;
+  font-family: "Roboto", sans-serif;
+  color: white;
+  font-size: 20px;
+}
+
+.form-bio .card-body {
+  background-color: #f2f2f2;
+  border-width: 0px;
+}
+
+.title-skill {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 25px;
+}
+
+/* VERSI DEKSTOP */
+@media (min-width: 992px) {
+  /* .nav-link:hover {
+    background-color: #dc3545;
+    border-radius: 10px;
+    color: white;
+    font-style: bold;
+  } */
+
+  .active {
+    background-color: #dc3545;
+    border-radius: 10px;
+    color: white;
+  }
+
+  .thumbnail {
+    border-radius: 10px;
+    background-color: #f2f2f2;
+    height: 335px;
+    object-fit: contain;
+  }
+
+  .jumbotron {
+    background-color: #e9873c;
+    size: cover;
+    height: 504px;
+  }
+  .img {
+    width: 200px;
+    height: 300px;
+    object-fit: contain;
+    margin-top: -40px;
+  }
+  /* .card-img-top {
+    height: 250px;
+    width: 220px;
+    background-color: #ffc107;
+    padding: 40px;
+    border-radius: 20px;
+    margin-top: -90px;
+    object-fit: contain;
+  } */
+
+  .blockmenu {
+    background-color: #e9873c;
+    height: 250px;
+    margin-top: 30px;
+    margin-bottom: 200px;
+    border-radius: 20px;
+  }
+}
+
+.img {
+  width: 366px;
+  height: 473px;
+  object-fit: contain;
+  margin-top: -40px;
+}
